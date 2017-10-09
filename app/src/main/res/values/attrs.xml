@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomProgressView">
+        <attr name="cpv_max" format="integer" />
+        <attr name="cpv_progress" format="integer" />
+        <attr name="cpv_layer_color" format="color" />
+        <attr name="cpv_show_progress" format="boolean" />
+    </declare-styleable>
+</resources>
